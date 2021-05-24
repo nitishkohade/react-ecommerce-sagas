@@ -3,13 +3,13 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 const config = {
-    apiKey: "AIzaSyBbNWpn_1T5Z4_cPIjTBcEI8JAENsExky0",
-    authDomain: "online-shop0.firebaseapp.com",
-    projectId: "online-shop0",
-    storageBucket: "online-shop0.appspot.com",
-    messagingSenderId: "997325830572",
-    appId: "1:997325830572:web:3307e27cd017fc7f9f6209",
-    measurementId: "G-LPNFSYG996"
+        apiKey: "AIzaSyByjN0mSA-SYB_wYStOm4JbhhhbgIEmNao",
+        authDomain: "modern-cart.firebaseapp.com",
+        projectId: "modern-cart",
+        storageBucket: "modern-cart.appspot.com",
+        messagingSenderId: "545812621008",
+        appId: "1:545812621008:web:37c72a10afc2a80fd3a0d5",
+        measurementId: "G-3PXFZ44M5H"
   };
 
   firebase.initializeApp(config)
